@@ -7,8 +7,8 @@ The four main distinguished advanteges of this project are:
 
 - Ability to independently gain power efficiently and effectively.
 - Ability to learn through data gathering and analyzing.
-- Body Resistance to high temperature
-- Ability to carry double its weigth
+- Body Resistance to high temperature.
+- Ability to carry additional weieght.
 
 
 This repository contains the following files:
